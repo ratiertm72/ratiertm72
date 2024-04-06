@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DongBuem Lee from south korea
 - 👀 I’m interested in AI & Mindbuilld
-- 🌱 I’m currently learning Elixir, ScyllaDB
+- 🌱 I’m currently learning Elixir, ScyllaDB, absinthe.
 - 📫 How to reach me ratiertm72@gmail.com
 
 <!---
